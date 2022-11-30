@@ -1,4 +1,5 @@
-Class SumOfElements{
+public class SumOfElements{
+    
     public static int sumAll(int[] arr){
 
         //initialize sum with 0

@@ -1,5 +1,4 @@
 import java.lang.Integer;
-import java.io.*;
 
 public class MaxAndMinNoInAnArray {
 
