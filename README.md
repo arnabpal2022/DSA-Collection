@@ -2,7 +2,7 @@
   
   This Repository contains Study Materials on Data Structure and Algorithms. The Complete Codes are available in Java. All the Important Topics and Concepts are . Students & Learners can check out those concepts and solutions for Learning Purposes.
   
-Important Data Structures To Learn :
+### Important Data Structures To Learn :
   - <a href="https://github.com/arnabpal2022/DSA-Collection/tree/main/Arrays" style="background-color:#FFFFFF;color:#000000;text-decoration:none"> Arrays </a>
   - Matrix
   - String
@@ -14,7 +14,7 @@ Important Data Structures To Learn :
   - Tree
   - Graph
   
-Important Algorithms to Learn : 
+### Important Algorithms to Learn : 
   - Searching
   - Sorting
   - Divide & Conquer
