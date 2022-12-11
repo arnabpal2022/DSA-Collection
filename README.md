@@ -15,7 +15,7 @@
   - Graph
   
 ### Important Algorithms to Learn : 
-  - Searching
+  - <a href = "https://github.com/arnabpal2022/DSA-Collection/tree/main/Algorithms" style="background-color:#FFFFFF;color:#000000;text-decoration:none"> Searching </a>
   - Sorting
   - Divide & Conquer
   - Greedy Methodology
