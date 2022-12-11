@@ -6,7 +6,7 @@
   - <a href="https://github.com/arnabpal2022/DSA-Collection/tree/main/Arrays" style="background-color:#FFFFFF;color:#000000;text-decoration:none"> Arrays </a>
   - Matrix
   - String
-  - Linked List
+  - <a href="https://github.com/arnabpal2022/DSA-Collection/tree/main/LinkedList" style="background-color:#FFFFFF;color:#000000;text-decoration:none"> Linked List </a>
   - Stack
   - Queue
   - Heap
