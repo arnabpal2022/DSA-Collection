@@ -108,5 +108,45 @@ public class LinkedList {
 
         return count;
     }
+
+    //method for searching a node data in a linked list
+    public boolean search(Node head, int x){
+        Node current = head;
+        while(current!=null){
+            if(current.data==x){
+                return true;
+
+            }
+            current=current.next;
+
+        }
+        return false;
+    }
+
+    //only can be used in Sorted LinkedLists
+    //sorted means ascending order
+
+    //in case of descend, we need to sort it
+    public void sortedInsert(Node new_node){
+        Node current;
+        if(head == null || head.data>= new_node.data){
+            new_node.next = head;
+            head=new_node;
+        }
+
+        else {
+            current = head;
+            while(current.next!=null && current.next.data < new_node.data){
+                current= current.next;
+
+            }
+
+            new_node.next=current.next;
+            current.next=new_node;
+        }
+
+
+    }
+
 }
 
